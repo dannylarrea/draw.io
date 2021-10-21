@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T05:33:25.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Or262sCSdMe7yndK5bip" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T08:10:10.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="8ouSWznzvqxk098Ny4mY" version="15.5.7" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="681" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2b4e8129b02d487f-1" value="Git &amp;amp; GitHub" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+        <mxCell id="2b4e8129b02d487f-1" value="Git &amp;amp; GitHub (trabajo colaborativo)" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="180" y="70" width="560" height="320" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-1" source="2b4e8129b02d487f-6" target="4puBNBnCgwYLjHy2vO-K-1" edge="1">
@@ -15,7 +15,7 @@
         <mxCell id="2b4e8129b02d487f-2" value="GitHub" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
           <mxGeometry y="20" width="560" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="4puBNBnCgwYLjHy2vO-K-12" value="" style="endArrow=blockThin;html=1;rounded=0;fontSize=10;strokeWidth=1;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="2b4e8129b02d487f-2">
+        <mxCell id="4puBNBnCgwYLjHy2vO-K-12" value="" style="endArrow=blockThin;html=1;rounded=0;fontSize=10;strokeWidth=1;endFill=0;startArrow=oval;startFill=0;" parent="2b4e8129b02d487f-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="79" as="sourcePoint" />
             <mxPoint x="310" y="61" as="targetPoint" />
@@ -28,44 +28,44 @@
         <mxCell id="2b4e8129b02d487f-6" value="repo&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;main&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;spacingLeft=7;" parent="2b4e8129b02d487f-2" vertex="1">
           <mxGeometry x="50" y="30" width="90" height="63.5" as="geometry" />
         </mxCell>
-        <mxCell id="4puBNBnCgwYLjHy2vO-K-13" value="(4) pull requests" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="2b4e8129b02d487f-2">
+        <mxCell id="4puBNBnCgwYLjHy2vO-K-13" value="(4) pull requests" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="2b4e8129b02d487f-2" vertex="1">
           <mxGeometry x="335" y="58" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-4" value="Local" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
           <mxGeometry y="170" width="560" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="4puBNBnCgwYLjHy2vO-K-1" value="repo&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;main&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;(2) &lt;font color=&quot;#00cc00&quot;&gt;dev&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="2b4e8129b02d487f-4">
+        <mxCell id="4puBNBnCgwYLjHy2vO-K-1" value="repo&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;main&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;(2) &lt;font color=&quot;#00cc00&quot;&gt;dev&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;spacingLeft=7;" parent="2b4e8129b02d487f-4" vertex="1">
           <mxGeometry x="50" y="50" width="90" height="63.5" as="geometry" />
         </mxCell>
-        <mxCell id="4puBNBnCgwYLjHy2vO-K-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(1) git clone url&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2b4e8129b02d487f-4">
+        <mxCell id="4puBNBnCgwYLjHy2vO-K-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(1) git clone url&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="2b4e8129b02d487f-4" vertex="1">
           <mxGeometry x="95" y="10" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4puBNBnCgwYLjHy2vO-K-10" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(3) git push origin dev&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2b4e8129b02d487f-4">
+        <mxCell id="4puBNBnCgwYLjHy2vO-K-10" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(3) git push origin dev&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="2b4e8129b02d487f-4" vertex="1">
           <mxGeometry x="265" y="10" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4puBNBnCgwYLjHy2vO-K-17" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(6) git pull&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2b4e8129b02d487f-4">
+        <mxCell id="4puBNBnCgwYLjHy2vO-K-17" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(6) git pull&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="2b4e8129b02d487f-4" vertex="1">
           <mxGeometry x="487" y="10" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4puBNBnCgwYLjHy2vO-K-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4puBNBnCgwYLjHy2vO-K-8" target="4puBNBnCgwYLjHy2vO-K-9">
+        <mxCell id="4puBNBnCgwYLjHy2vO-K-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4puBNBnCgwYLjHy2vO-K-8" target="4puBNBnCgwYLjHy2vO-K-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="265.0000000000002" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4puBNBnCgwYLjHy2vO-K-9" value="repo&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;main&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;dev&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+        <mxCell id="4puBNBnCgwYLjHy2vO-K-9" value="repo&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;main&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;dev&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;spacingLeft=7;" parent="1" vertex="1">
           <mxGeometry x="400" y="290" width="90" height="63.5" as="geometry" />
         </mxCell>
-        <mxCell id="4puBNBnCgwYLjHy2vO-K-8" value="repo&lt;br&gt;&lt;ul&gt;&lt;li&gt;main&lt;/li&gt;&lt;li&gt;dev&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+        <mxCell id="4puBNBnCgwYLjHy2vO-K-8" value="repo&lt;br&gt;&lt;ul&gt;&lt;li&gt;main&lt;/li&gt;&lt;li&gt;dev&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;spacingLeft=7;" parent="1" vertex="1">
           <mxGeometry x="400" y="120" width="90" height="63.5" as="geometry" />
         </mxCell>
-        <mxCell id="4puBNBnCgwYLjHy2vO-K-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4puBNBnCgwYLjHy2vO-K-16" target="4puBNBnCgwYLjHy2vO-K-15">
+        <mxCell id="4puBNBnCgwYLjHy2vO-K-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4puBNBnCgwYLjHy2vO-K-16" target="4puBNBnCgwYLjHy2vO-K-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480.0000000000002" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4puBNBnCgwYLjHy2vO-K-15" value="repo&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;main&lt;/span&gt;&lt;/li&gt;&lt;li&gt;(7)&lt;font color=&quot;#ff3333&quot;&gt;&amp;nbsp;dev&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+        <mxCell id="4puBNBnCgwYLjHy2vO-K-15" value="repo&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;main&lt;/span&gt;&lt;/li&gt;&lt;li&gt;(7)&lt;font color=&quot;#ff3333&quot;&gt;&amp;nbsp;dev&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;spacingLeft=7;" parent="1" vertex="1">
           <mxGeometry x="615" y="290" width="90" height="63.5" as="geometry" />
         </mxCell>
-        <mxCell id="4puBNBnCgwYLjHy2vO-K-16" value="repo&lt;br&gt;&lt;ul&gt;&lt;li&gt;main&lt;/li&gt;&lt;li&gt;(5)&lt;font color=&quot;#ff3333&quot;&gt; dev&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;spacingLeft=7;" vertex="1" parent="1">
+        <mxCell id="4puBNBnCgwYLjHy2vO-K-16" value="repo&lt;br&gt;&lt;ul&gt;&lt;li&gt;main&lt;/li&gt;&lt;li&gt;(5)&lt;font color=&quot;#ff3333&quot;&gt; dev&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;spacingLeft=7;" parent="1" vertex="1">
           <mxGeometry x="615" y="120" width="90" height="63.5" as="geometry" />
         </mxCell>
       </root>
